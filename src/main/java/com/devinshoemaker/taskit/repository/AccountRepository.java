@@ -1,6 +1,6 @@
-package com.devinshoemaker.bear.bones.api.repository;
+package com.devinshoemaker.taskit.repository;
 
-import com.devinshoemaker.bear.bones.api.domain.Account;
+import com.devinshoemaker.taskit.domain.Account;
 import org.springframework.data.repository.CrudRepository;
 
 /**

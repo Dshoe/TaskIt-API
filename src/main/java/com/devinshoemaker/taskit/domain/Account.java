@@ -1,4 +1,4 @@
-package com.devinshoemaker.bear.bones.api.domain;
+package com.devinshoemaker.taskit.domain;
 
 import javax.persistence.*;
 import javax.validation.constraints.NotNull;

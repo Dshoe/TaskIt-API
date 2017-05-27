@@ -1,12 +1,12 @@
-package com.devinshoemaker.bear.bones.api;
+package com.devinshoemaker.taskit;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class BearBonesApiApplication {
+public class TaskItApiApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(BearBonesApiApplication.class, args);
+        SpringApplication.run(TaskItApiApplication.class, args);
     }
 }

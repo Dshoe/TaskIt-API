@@ -1,6 +1,6 @@
-package com.devinshoemaker.bear.bones.api.controller;
+package com.devinshoemaker.taskit.controller;
 
-import com.devinshoemaker.bear.bones.api.domain.Account;
+import com.devinshoemaker.taskit.domain.Account;
 import com.google.gson.Gson;
 import org.junit.Test;
 import org.junit.runner.RunWith;

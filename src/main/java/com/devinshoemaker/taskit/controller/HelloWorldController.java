@@ -1,4 +1,4 @@
-package com.devinshoemaker.bear.bones.api.controller;
+package com.devinshoemaker.taskit.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
