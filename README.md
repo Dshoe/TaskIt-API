@@ -1,5 +1,5 @@
-# Bear Bones API
-An open source bare bones API
+# TaskIt API
+An open source todo/task manager API
 
 Features
 -

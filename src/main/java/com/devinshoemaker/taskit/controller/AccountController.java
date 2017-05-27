@@ -1,7 +1,7 @@
-package com.devinshoemaker.bear.bones.api.controller;
+package com.devinshoemaker.taskit.controller;
 
-import com.devinshoemaker.bear.bones.api.domain.Account;
-import com.devinshoemaker.bear.bones.api.repository.AccountRepository;
+import com.devinshoemaker.taskit.domain.Account;
+import com.devinshoemaker.taskit.repository.AccountRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

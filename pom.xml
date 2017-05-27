@@ -4,12 +4,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.devinshoemaker</groupId>
-    <artifactId>bear-bones-api</artifactId>
+    <artifactId>TaskIt-API</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>bear-bones-api</name>
-    <description>An open source bare bones API</description>
+    <name>TaskIt-API</name>
+    <description>An open source todo/task manager API</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
